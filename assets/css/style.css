@@ -27,3 +27,12 @@ body{
 .latest-from-web-link{
     color:#6798e9;
 }
+
+#lightSwitch {
+    transform: scale(1.8);
+  }
+  
+.darkmood {
+    background-color: rgb(27, 31, 31) !important;
+    color: #333333;
+}
