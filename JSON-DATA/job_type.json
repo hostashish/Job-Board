@@ -1,0 +1,26 @@
+[
+    {
+        "jobtype_id":1,
+        "jobtype":"Full-Time"
+    },
+    {
+        "jobtype_id":2,
+        "jobtype":"Part-Time"
+    },
+    {
+        "jobtype_id":3,
+        "jobtype":"Fresher"
+    },
+    {
+        "jobtype_id":4,
+        "jobtype":"Internship"
+    },
+    {
+        "jobtype_id":5,
+        "jobtype":"Contract"
+    },
+    {
+        "jobtype_id":6,
+        "jobtype":"Temporary"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "job_category_id":1,
+        "job_category_name":"Full-Stack-Web-Developer"
+    },
+    {
+        "job_category_id":2,
+        "job_category_name":"Database-Engineer"
+    },
+    {
+        "job_category_id":3,
+        "job_category_name":"Server-Engineer"
+    },
+    {
+        "job_category_id":4,
+        "job_category_name":"HTML-Developer"
+    },
+    {
+        "job_category_id":5,
+        "job_category_name":"SQL-Engineer"
+    },
+    {
+        "job_category_id":6,
+        "job_category_name":"Python-Engineer"
+    }
+]
